@@ -4,17 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 // Components
 import { AppComponent } from './app.component';
 // Modules
-import { CounterModule } from './counter/counter.module'
+import { CounterModule } from './counter/counter.module';
+import { FormExamplesModule } from './forms/forms.module';
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
-  imports: [
-    BrowserModule,
-    CounterModule
-  ],
+  declarations: [AppComponent],
+  imports: [BrowserModule, CounterModule, FormExamplesModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
