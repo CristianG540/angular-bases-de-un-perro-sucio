@@ -1,6 +1,6 @@
 # Angular Conceptos Base - Perro Sucio 🐕
 
-
+Maricadas varias sobre angular, este proyecto es un compendio de conceptos aplicados que puedo usar para recordar como angular funciona.
 
 ## Development server
 
