@@ -1,6 +1,6 @@
-# SimpleBaseCounter
+# Angular Conceptos Base - Perro Sucio 🐕
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+
 
 ## Development server
 
