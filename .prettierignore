@@ -1,0 +1,8 @@
+dist
+build
+coverage
+deploy/*
+*.yml
+*.yaml
+*.min.js
+*.md
